@@ -1,7 +1,7 @@
 # HTML--dev2
-# www.patika.dev <br>
-#[link bilgisi](https://app.patika.dev/Ayşegül Biricik) <br>  
-#[link bilgisi](https://github.com//aysegulbrck) <br>
+<p> www.patika.dev </p> <br>
+<p>[link bilgisi](https://app.patika.dev/Ayşegül Biricik) </p> <br>  
+<p>[link bilgisi](https://github.com//aysegulbrck) </p><br>
 <!DOCTYPE html>
 <html lang="tr">
 <head>
