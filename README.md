@@ -1,5 +1,4 @@
 # HTML--dev2
-<p> www.patika.dev </p> <br>
 <!DOCTYPE html>
 <html lang="tr">
 <head>
